@@ -1,0 +1,7 @@
+
+.country-card-wrapper{
+     display: flex;
+     gap: 10px;
+     flex-wrap: wrap;
+     cursor: pointer;
+}

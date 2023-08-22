@@ -1,0 +1,15 @@
+
+.country-card-wrapper{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    cursor: pointer;
+    background-color: black;
+}
+.all{
+    display: flex;
+}
+.search{
+    margin: auto;
+}
+
